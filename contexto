@@ -1,0 +1,17 @@
+  CONTEXTO
+
+El proyecto consiste en el desarrollo de un software que permita a estudiantes , docentes y personal administrativo reservar aulas universitarias de forma rápida y ordenada. Actualmente muchas universidades gestionan estos espacios manualmente o con herramientas poco eficientes , lo que genera choques de horarios , confusiones y pérdida de tiempo .La solución centraliza la información , automatiza la disponibilidad y permite una mejor administración de los recursos.    
+                                                            TECNOLOGÍAS 
+
+Lenguajes : Java(backend) , Javascript (frontend). 
+Entorno de desarrollo : Intellij idea / Eclipse (java) , visual studio code (Javascript). 
+Frameworks y librerías : Javafx (java)  ,Bootstrap (css) ,Jquery (javascript).
+Base de datos : MySQL
+Otras : Github para los avances , UML para modelado , JDBC para la conexión a la base de datos.
+
+
+
+
+                                                        ÁREA DEL PROYECTO
+
+Área: Gestión y logística de recursos en instituciones educativas.
